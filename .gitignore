@@ -1,0 +1,9 @@
+﻿# Large data files
+candidates.jsonl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
